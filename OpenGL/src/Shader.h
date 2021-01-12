@@ -1,12 +1,9 @@
 #pragma once
-
+#include <unordered_map>
 #include <string>
 #include <fstream>
 #include <sstream>
 #include <iostream>
-#include <unordered_map>
-
-#include "Renderer.h"
 
 class Shader
 {
